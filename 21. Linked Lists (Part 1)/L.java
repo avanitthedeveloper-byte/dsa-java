@@ -1,4 +1,4 @@
-// 11. Reverse a Linked List (Iterative Approach)
+// 12. Reverse a Linked List (Iterative Approach)
 
 public class L {
 
