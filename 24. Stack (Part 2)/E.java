@@ -1,0 +1,1 @@
+// 5. Maximum Rectangular Area in Histogram (Theory)
